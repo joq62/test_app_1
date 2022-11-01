@@ -1,0 +1,12 @@
+[{<<"test_add">>,
+  {git,"https://github.com/joq62/test_add.git",
+       {ref,"1085fbca50dc1a50664161f14cfc8d1f703405ca"}},
+  0},
+ {<<"test_divi">>,
+  {git,"https://github.com/joq62/test_divi.git",
+       {ref,"ff8b718be906caaad483bb10ad697bc1eb387dd8"}},
+  0},
+ {<<"test_sub">>,
+  {git,"https://github.com/joq62/test_sub.git",
+       {ref,"d17de83ab162dd80d21b54af6352120e850bb222"}},
+  0}].
